@@ -1,0 +1,2 @@
+# canon
+A short essay about identity, change, and why systems that work can still lose their way over time
