@@ -1,5 +1,3 @@
-# Signals as Identity
-
 This isn’t a tutorial, a pitch, or a set of hot takes.
 
 It’s an attempt to describe a problem that only becomes visible over time: systems that work, evolve, and still somehow lose their sense of self. If you’re used to learning in fragments, this will feel different. There are no shortcuts here—just a single idea examined carefully from a few angles. You don’t need to agree with it. You just need to follow it long enough to see whether it matches something you’ve already felt.
